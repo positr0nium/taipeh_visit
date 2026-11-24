@@ -1,0 +1,6 @@
+qrisp==0.9.10
+iqm-client[qrisp]==37.0.0
+pyscf; sys_platform != "win32"
+matplotlib
+networkx
+jupyterlab
